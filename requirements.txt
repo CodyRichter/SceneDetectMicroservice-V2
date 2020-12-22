@@ -9,3 +9,8 @@ pillow
 python-dotenv
 requests
 starlette
+scipy
+numpy
+torch
+torchvision
+opencv-python
